@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "download": "^8.0.0",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "name": "embedded-systems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "start":"node index.js"
+    
+  },
+  "author": "Lysa",
+  "license": "ISC",
+  "description": ""
+}
